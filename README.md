@@ -24,7 +24,7 @@ I am a front end developer and make awesome and unique web applications, customi
 </ul>
 
 - 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic** and **mysql**.
-- 🌱 I’m currently learning **Firebase**.
+- 🌱 I’m currently learning **Firebase**, **NodeJs**, **MongoDB**, **Data Science**.
 - 👯 I’m looking to collaborate on innovated projects.
 - 🤔 I’m interested for help with with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
 - 📫 How to reach me: [website](https://sergiocampbell.github.io/sacv), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
