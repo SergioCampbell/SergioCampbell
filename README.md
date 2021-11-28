@@ -18,14 +18,14 @@ I am a front end developer and make awesome and unique web applications, customi
 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="30" height="30" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visual_Studio_2013_Logo.svg/580px-Visual_Studio_2013_Logo.svg.png" width="30" height="30" />
-
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" width="30" height="30" />
+<img src="https://i.dlpng.com/static/png/7043465_preview.png" width="30" height="30" />
+ 
+<img src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" width="30" height="30" />
 </ul>
 
-- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic** and **mysql**.
-- 🌱 I’m currently learning **Firebase**, **NodeJs**, **MongoDB**, **Data Science**.
+- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic**, **mongodb** and **sqlserver**.
+- 🌱 I’m currently learning **Firebase**, **NodeJs**, **MongoDB**, **Data Science** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
-- 🤔 I’m interested for help with with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
-- 📫 How to reach me: [website](https://sergiocampbell.github.io/sacv), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
+- 🤔 I’m interested for help with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
+- 📫 How to reach me: [website](https://sergiocampbell.com), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
 - ⚡ Fun fact: Focused, learning, adventour, explorer, gamer, human.
