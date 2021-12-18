@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a front end developer and make awesome and unique web applications, customized for every single project. In the future I want to be a full stack development, so I'm focus and growing up with every single people for any project. 
-
-`console.log("I say project two times... project, project, project")`
+I am a software developer and I make awesome and unique web applications, customized for every single project. In the future I want to make a big community were everyone can learn and deploy their own knowledge to create the way to the next generation, so I'm focus and growing up with every single people for any project. 
 
 **Languages and dev tools:**
 <ul>
@@ -23,9 +21,9 @@ I am a front end developer and make awesome and unique web applications, customi
 <img src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" width="30" height="30" />
 </ul>
 
-- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic**, **mongodb** and **sqlserver**.
+- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic**, **mongodb**, **postgres** and **sqlserver**.
 - 🌱 I’m currently learning **Firebase**, **NodeJs**, **MongoDB**, **Data Science** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
 - 🤔 I’m interested for help with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
-- 📫 How to reach me: [website](https://sergiocampbell.com), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
+- 📫 How to reach me: [website](https://sacv-portfolio.web.app), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
 - ⚡ Fun fact: Focused, learning, adventour, explorer, gamer, human.
