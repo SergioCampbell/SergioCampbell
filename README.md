@@ -16,12 +16,14 @@ I am a software developer and I make awesome and unique web applications, custom
 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="30" height="30" />
 
-<img src="https://i.dlpng.com/static/png/7043465_preview.png" width="30" height="30" />
+<img src="https://i.dlpng.com/static/png/7043465_preview.png" width="30" height="30" /> 
+ 
+<img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" width="30" height="30" />
  
 <img src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" width="30" height="30" />
 </ul>
 
-- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic**, **mongodb**, **postgres** and **sqlserver**.
+- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic**, **mongodb**, **postgresDB**, **MYSQL** and **sqlserver**.
 - 🌱 I’m currently learning **Firebase**, **NodeJs**, **MongoDB**, **Data Science** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
 - 🤔 I’m interested for help with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
