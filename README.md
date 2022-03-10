@@ -28,7 +28,6 @@ const aboutMe = {
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
- 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/angular.png" alt=angular width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
@@ -38,12 +37,12 @@ const aboutMe = {
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 
 
-- 🔭 I’m currently working with **React**, **Angular**, **Bootstrap**, **Ionic**, **mongodb**, **postgresDB**, **MYSQL** and **sqlserver**.
-- 🌱 I’m currently learning **Firebase**, **NodeJs**, **MongoDB**, **Data Science** and **Typescript**.
+- 🔭 I’m currently working with **React**, **Bootstrap**, **Ionic**, **React-Native**, **mongoDB**, **postgresDB**, **MYSQL**.
+- 🌱 I’m currently learning **NextJs**, **NodeJs**, **MongoDB**, **software architecture** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
 - 🤔 I’m interested for help with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
 - 📫 How to reach me: [website](https://sacv-portfolio.web.app), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
-- ⚡ Fun fact: Focused, learning, adventour, explorer, gamer, human.
+- ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
 
 
 <p align="right">
