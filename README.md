@@ -41,7 +41,7 @@ const aboutMe = {
 - 🌱 I’m currently learning **NextJs**, **NodeJs**, **MongoDB**, **software architecture** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
 - 🤔 I’m interested for help with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
-- 📫 How to reach me: [website](https://sacv-portfolio.web.app), [Instagram](https://instagram.com/iamsergiocampbell), [Facebook](https://facebook.com/iamsergiocampbell)
+- 📫 How to reach me: [All my social links is here ♥](https://linktr.ee/iamsergiocampbell)
 - ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
 
 
