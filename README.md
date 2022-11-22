@@ -6,10 +6,10 @@ I am a software developer and I make awesome and unique web applications, custom
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, React, Angular, SQL, Node.js],
-   learning: [Redux, Microservices, Next.js, Cloud],
+   learning: [Redux, Microservices, Next.js, Cloud: {azure}],
    technologies: {
       frontEnd: {
-         css: ["Bootstrap", "Material-UI"]
+         css & scss: ["Bootstrap", "Material-UI", "Ant-design"]
       },
       backEnd: {
          js: ["Node", "Express"],
@@ -37,10 +37,10 @@ const aboutMe = {
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 
 
-- 🔭 I’m currently working with **React**, **Bootstrap**, **Ionic**, **React-Native**, **mongoDB**, **postgresDB**, **MYSQL**.
-- 🌱 I’m currently learning **NextJs**, **NodeJs**, **MongoDB**, **software architecture** and **Typescript**.
+- 🔭 I’m currently working with **React**, **Bootstrap**, **Angular**, **React-Native**, **mongoDB**, **postgresDB**.
+- 🌱 I’m currently learning **NextJs**, **NodeJs**, **AzureDevOps**, **software architecture** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
-- 🤔 I’m interested for help with knowledge [from my YT channel](https://youtube.com/c/iamsergiocampbell)
+- 🤔 I’m interested for help with knowledge and soft skills.
 - 📫 How to reach me: [All my social links is here ♥](https://linktr.ee/iamsergiocampbell)
 - ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
 
