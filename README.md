@@ -5,14 +5,14 @@ I am a software developer and I make awesome and unique web applications, custom
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, React, Angular, SQL, Node.js],
-   learning: [Redux, Microservices, Next.js, Cloud: {azure}],
+   code: [Javascript, Typescript, HTML, CSS, React, Angular, Astro, SQL, Node.js, Redux, react-query, Next.js, Python, CI, CD],
+   learning: [ Cloud: {azure, firebase}],
    technologies: {
       frontEnd: {
          css & scss: ["Bootstrap", "Material-UI", "Ant-design"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Socket.io", "webRTC"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSql"],
    },
@@ -31,16 +31,16 @@ const aboutMe = {
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 
 
-- 🔭 I’m currently working with **React**, **Bootstrap**, **Angular**, **React-Native**, **mongoDB**, **postgresDB**.
-- 🌱 I’m currently learning **NextJs**, **NodeJs**, **AzureDevOps**, **software architecture** and **Typescript**.
-- 👯 I’m looking to collaborate on innovated projects.
-- 🤔 I’m interested for help with knowledge and soft skills.
+- 🔭 I’m currently working with: **Typescript**, **React**, **Angular**, **Node.js**, **NextJs**, **Python**, **React-Native**, **NodeJs**, **mongoDB**, **postgresDB**.
+- 🌱 I believe in the power of continuous learning and collaboration. Always eager to explore emerging technologies and contribute to open-source projects.
+- 🔧 When I'm not coding, you'll find me playing some games online, because a well-rounded developer is a happy developer!
 - 📫 How to reach me: [All my social links is here ♥](https://linktr.ee/iamsergiocampbell)
 - ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
 
