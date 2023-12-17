@@ -41,7 +41,7 @@ const aboutMe = {
 - 🔭 I’m currently working with: **Typescript**, **React**, **Angular**, **Node.js**, **NextJs**, **Python**, **React-Native**, **NodeJs**, **mongoDB**, **postgresDB**.
 - 🌱 I believe in the power of continuous learning and collaboration. Always eager to explore emerging technologies and contribute to open-source projects.
 - 🔧 When I'm not coding, you'll find me playing some games online, because a well-rounded developer is a happy developer!
-- 📫 How to reach me: [All my social links is here ♥](https://linktr.ee/iamsergiocampbell)
+- 📫 How to reach me: (https://sergiocampbell.github.io/)
 - ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
 
 
